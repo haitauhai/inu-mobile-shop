@@ -1,0 +1,114 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.clear {
+    clear: both;
+}
+
+.imgsale{
+    max-width: 100%;
+}
+.photosale{
+    padding: 10px 10% 10px 10%;
+    display: flex;
+    justify-content: space-between;
+}
+.photosale>img{
+    max-width: 50%;
+}
+.phonesaleimg{
+    text-align: center;
+}
+.phonesaleimg img{
+    display: block;
+    margin: auto;
+    width: calc(80%);
+    height: auto;
+}
+#phonesale{
+    background-color: #E00000;
+    background-clip: content-box;
+    padding: 0px 10% 15px 10%;
+    display: flex;
+    justify-content: space-evenly;
+}
+#phonesale>div{
+    padding: 15px 0 15px 0;
+    margin: 20px 0 20px 0;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    max-width: 18.2%;
+    text-decoration: none;
+}
+#phonesale>div>ul>li{
+    text-align: center;
+    line-height: 25px;
+}
+.itemphone a{
+    text-decoration: none;
+    color: black;
+}
+
+#phonesale>div>ul>li>img{
+    max-width: 100%;
+    border-radius: 8px;
+    padding-bottom: 5px;
+}
+#phonesale>div>ul{
+    list-style-type: none;
+}
+.itemphone :hover img{
+    transform: translateY(-5px);
+}
+.itemphone :hover a{
+    color:blue;
+}
+#laptopsale{
+    background-color: #E00000;
+    background-clip: content-box;
+    padding: 0px 10% 15px 10%;
+    display: flex;
+    justify-content: space-evenly;
+}
+#laptopsale>div{
+    padding: 15px 0 15px 0;
+    margin: 20px 0 20px 0;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    max-width: 18.2%;
+    text-decoration: none;
+}
+#laptopsale>div>ul>li{
+    text-align: center;
+    line-height: 25px;
+}
+.itemlaptop a{
+    text-decoration: none;
+    color: black;
+}
+
+#laptopsale>div>ul>li>img{
+    max-width: 100%;
+    border-radius: 8px;
+    padding-bottom: 5px;
+}
+#laptopsale>div>ul{
+    list-style-type: none;
+}
+.itemlaptop :hover img{
+    transform: translateY(-5px);
+}
+.itemlaptop :hover a{
+    color:blue;
+}
+
+
