@@ -1,7 +1,5 @@
 # INU Mobile Shop
 
-### Tài liệu hướng dẫn
-
-![Preview of INUSHOP PDF](https://github.com/haitauhai/inu-mobile-shop/raw/main/INUSHOP-page1.png)
+### Tài liệu mô tả
 
 📄 [Tải tài liệu đầy đủ (PDF)](https://github.com/haitauhai/inu-mobile-shop/blob/main/INUSHOP.pdf)
