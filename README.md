@@ -2,4 +2,6 @@
 
 ### Tài liệu hướng dẫn
 
-<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/haitauhai/inu-mobile-shop/blob/main/INUSHOP.pdf" width="100%" height="600px"></iframe>
+![Preview of INUSHOP PDF](https://github.com/haitauhai/inu-mobile-shop/raw/main/INUSHOP-page1.png)
+
+📄 [Tải tài liệu đầy đủ (PDF)](https://github.com/haitauhai/inu-mobile-shop/blob/main/INUSHOP.pdf)
